@@ -1,0 +1,3 @@
+# IBM Db2
+
+IBM Db2 can be found on ibm.com and it is also a relational database management system. Although IBM Db2 has some free features for developers, it is mostly a commercial database. The database runs on a relational model that supports a variety of SQL and NoSQL databases. IBM Db2 makes use of a cloud-native hosting model that helps to make it more easily accessible. Java can connect to IBM Db2 and make use of dynamic SQL operations with the help of a JDBC. To access it via Python, you need to import ibm_db to the Python library.

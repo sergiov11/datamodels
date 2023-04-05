@@ -1,0 +1,3 @@
+# Firebase
+
+Firebase can be found at firebase.google.com and it is a NoSQL type of database. Although the Firebase community offers a variety of open-source material, the core features of the database are commercial. Firebase runs on a Document oriented database which means that the data is stored on documents and organized into collections. The database that Firebase runs on is cloud-hosted. In order to connect Firebase to Java, you will need to use an SDK to enable access to its services. To access it with Python, you will first need to install it using the pip helper.

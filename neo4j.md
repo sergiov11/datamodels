@@ -1,0 +1,3 @@
+# Neo4J
+
+Neo4J is a graph-focused database system that allows users to integrate graph technologies into their working environment. Information about Neo4J can be found on neo4j.com and it is also an open-source system meaning that users can use the service at no extra cost. Neo4J manages data with the Property Graph Model. This database is versatile when it comes to hosting models since it can run via cloud, server, and desktop just to name a few. In order to use Neo4J with Java, you need to either create an AuraDB cloud instance or install Neo4J locally. Users can also connect to Neo4J with Python by using the binary protocol.

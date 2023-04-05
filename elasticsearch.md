@@ -1,0 +1,3 @@
+# Elasticsearch
+
+Elasticsearch can be found at elastic.co and it is a NoSQL database. Elasticsearch is an open-source database which means that users can access and make use of it free of charge. This database uses a documents data model which means that the data stored has to be modeled as a single document. Elasticsearch is hosted through the cloud which allows easy access across sites for users. To use Elasticsearch on Java, you first need to configure the Java API client so it can be used with HTTPS and with the generated CA certificate. If you want to access it with Python, you will first need to install it using the pip helper.

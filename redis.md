@@ -1,0 +1,3 @@
+# Redis
+
+Redis is a database that can be used as a primary or catching database by users. The database can be found at redis.com and It is also an open-source database since it allows users to make use of it without having to pay any fees. Redis runs on a NoSQL data model which means that the data being used is stored in documents instead of relational tables. Redis mostly runs on a cloud hosting model since the majority of programmers use it as a caching database but it can also be run on a server. To run Redis on Java you will need to install Lettuce which is a client that helps to support connections. To run it on Python you will need to run a Redis server and use the pip client from the Redis library.

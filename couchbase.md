@@ -1,0 +1,3 @@
+# Couchbase
+
+Couchbase is a cloud database that can be found on couchbase.com and it is a part of the NoSQL group of databases. Couchbase is also an open-source database which means that users have public access to it. The data model Couchbase uses is based on JSON due to its simplicity and human-readable notations. The database also runs in a cloud operating system, allowing users to access data and files over the internet rather than on a computer hard drive. Both Python and Java allow users to make use of Couchbase through an SDK.

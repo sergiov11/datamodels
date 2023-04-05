@@ -1,0 +1,3 @@
+# Oracle
+
+Oracle is a multi-model database management system that allows you to work with both NoSQL and SQL databases. Oracle can be found at oracle.com and it offers both open-source and commercial versions of its database although it is primarily designed for commercial users. Oracle is based on a Relational Database Management System (RDBMS) since it allows the users to store and retrieve data that other applications can then manipulate. Oracle can also be used by both client/server and cloud hosting models. Java can connect to the Oracle databases by using a JDBC and Pythong connects to Oracle using the python-oracledb interface.

@@ -1,0 +1,3 @@
+# SQLite
+
+SQLite is a database that is a part of the Structured Query Language (SQL) family of databases. It can be found on sqlite.org and it is also an open-source database meaning that the user can publicly access it and share the code without any limitations. SQLite has a couple of different data models such as Moon Modeler and Gleek.io to name a few. SQLite is serverless, meaning that the databases use files that are directly on the disk without a server acting as a middleman between the two. In order to use SQLite with Java, you need to have a JDBC Drive installed and set up on your computer.
